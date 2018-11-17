@@ -1,4 +1,4 @@
-token=process.env.token
+token=BOT_TOKEN
 owner=349095859859881984
 prefix1
 game=By iiBlueGamer295YT
