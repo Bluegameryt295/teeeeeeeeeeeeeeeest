@@ -3,4 +3,4 @@ owner=349095859859881984
 prefix=1
 game=By iiBlueGamer295YT
 stayinchannel=true
-songinstatus=true
+songinstatus=false
