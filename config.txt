@@ -1,7 +1,7 @@
-token=NTEyOTU3MjI4ODczOTQxMDA0.DtExkg.FhS8Cj4W6wZ5TCpXV3Uvh4D5yXo
-owner=349095859859881984
-prefix=1
-status=DND
-game=By iiBlueGamer295YT
+token=NTEzMjI2NTAxMTMxMzM3NzQ5.DtE7_A.uc9xNmio569VmD1QQ8mwFUxDRBA
+owner=392950841935527936
+prefix=>
+status=ONLINE
+game=>help
 stayinchannel=true
 songinstatus=false
