@@ -1,7 +1,7 @@
 token=NTEzMjI2NTAxMTMxMzM3NzQ5.DtE7_A.uc9xNmio569VmD1QQ8mwFUxDRBA
 owner=392950841935527936
-prefix=>
+prefix=4
 status=ONLINE
-game=>help
+game=4help
 stayinchannel=true
 songinstatus=false
